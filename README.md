@@ -1,3 +1,13 @@
+
+### Screeshots
+
+![Sifrão Contempladas Desktop Demo](./readme-images/desktop-demo1.jpg "Desktop Demo")
+
+![Sifrão Contempladas Desktop Demo](./readme-images/desktop-demo2.jpg "Desktop Demo")
+
+![Sifrão Contempladas Desktop Demo](./readme-images/desktop-demo3.jpg "Desktop Demo")
+
+
 <div align="center">
 
 <h2 align="center">Website Desenvolvido para um empresa de vendas de Cartas de Créditos com atendimentos via WhatsApp</h2>
@@ -10,13 +20,4 @@ As informações contidas nesse projetão são **ficticias** e essa aplicação 
 </div>
 
 <br />
-
-### Screeshots
-
-![Sifrão Contempladas Desktop Demo](./readme-images/desktop-demo1.jpg "Desktop Demo")
-
-![Sifrão Contempladas Desktop Demo](./readme-images/desktop-demo2.jpg "Desktop Demo")
-
-![Sifrão Contempladas Desktop Demo](./readme-images/desktop-demo3.jpg "Desktop Demo")
-
 
